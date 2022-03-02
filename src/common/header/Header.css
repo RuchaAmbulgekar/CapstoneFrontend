@@ -1,0 +1,41 @@
+.header{
+    background-color: purple;
+    height: 70px;
+    padding: 11px;
+    display: flex;
+    /*flex-direction: row;*/
+    /*justify-content: space-between;*/
+}
+
+.logo{
+    background-color: #ff7f7f;
+    height: 35px;
+}
+
+.logo-div{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    /*visibility: visible;*/
+    /*height: 35px;*/
+    align-items: center;
+}
+
+.titleDiv{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 15px;
+}
+
+#title{
+    color: white;
+    font-weight: bold;
+}
+
+.buttonDiv{
+    display: inline-flex;
+    align-items: center;
+    margin-left: auto;
+}

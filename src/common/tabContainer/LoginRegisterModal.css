@@ -1,0 +1,24 @@
+.modal{
+    width: 300px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+     align-content: center;
+    /* float: center; */
+    text-align: center;
+    /* position: inherit;  */
+}
+
+/*.modalDiv{*/
+/*    width: 300px;*/
+/*    height: 600px;*/
+/*    background-color: pink;*/
+/*    display: inline-flex;*/
+/*    flex-direction: row;*/
+/*    justify-content: space-around;*/
+/*    align-content: center;*/
+/*    align-items: center;*/
+/*    text-align: center;*/
+
+/*}*/
